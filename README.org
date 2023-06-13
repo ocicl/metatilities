@@ -1,0 +1,10 @@
+* metatilities
+
+metabang's utilities... - Now where is that kitchen sink...
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gwkkwg/metatilities.git   |
+| commit  | 82e13df  |
+| systems | metatilities |
+|---------+-------------------------------------------|
+
